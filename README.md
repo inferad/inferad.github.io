@@ -1,1 +1,2 @@
-# inferad.github.io
+# My blog
+Started my blog.
